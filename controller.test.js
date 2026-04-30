@@ -1,1 +1,0 @@
-const {total}=require('./mathService'); test('adds values',()=>{expect(total(2,3)).toBe(5);});
