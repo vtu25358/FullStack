@@ -1,1 +1,0 @@
-Demonstrates initializing repository, staging, commit history and pushing to remote.
